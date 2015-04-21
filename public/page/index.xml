@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Brian Santero</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Brian Santero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Duckchase</title>
+      <link>http://localhost:1313/page/duckchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/duckchase/</guid>
+      <description>&lt;h1&gt;Why you&#39;s guys?&lt;/h1&gt;
+
+At DuckChase we&#39;ll do nearly everything for you as long as it involves bits and bytes. We love the digitization of information including music, voiceovers, video production, and the web. Everything you see and hear on Brian&#39;s site is a product of our own (lack-of?) imagination and blood, sweat,[^1] and tears (mostly tears).
+
+&lt;h1&gt;So, how do I Duckchase?&lt;/h1&gt;
+
+If you&#39;d like to figure out your options, drop us a [little line](/contact/) and we&#39;ll make it happen!
+
+[^1]: Btw, we&#39;re also big fans of the &lt;a href=&#34;https://youtu.be/8Gv0H-vPoDc?t=96&#34;&gt;oxford comma&lt;/a&gt;.
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>&lt;form class=&#34;contact&#34; action=&#34;https://getsimpleform.com/messages?form_api_token=8fe3f0bce4d48b58cb7a19c033eefdfc&#34; method=&#34;post&#34;&gt;
+  &lt;!-- the redirect_to is optional, the form will redirect to the referrer on submission --&gt;
+  &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;localhost:4000/index.html&#39; /&gt;
+  &lt;!-- all your input fields here.... --&gt;
+  &lt;table&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;form-label&#34;&gt;
+        &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td class=&#34;form-field&#34;&gt;
+        &lt;input type=&#39;text&#39; name=&#39;Name&#39; /&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;form-label&#34;&gt;
+        &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td class=&#34;form-field&#34;&gt;
+        &lt;input type=&#39;text&#39; name=&#39;email&#39; /&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;form-label&#34;&gt;
+        &lt;label for=&#34;content&#34;&gt;Message&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td class=&#34;form-field&#34;&gt;
+        &lt;textarea name=&#34;content&#34; rows=3&gt;&lt;/textarea&gt;&lt;br /&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&#34;submit&#34;&gt;
+      &lt;td&gt;
+        &lt;input type=&#39;submit&#39; value=&#39;Send it!&#39; /&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

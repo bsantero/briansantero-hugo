@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Brian Santero</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Projects on Brian Santero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Duckchase</title>
+      <link>http://localhost:1313/project/duckchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/duckchase/</guid>
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/assets/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.&lt;/p&gt;
+
+&lt;p&gt;Here at Duckchase, we specialize in acoustic recording of small to medium ensembles, but are willing to turn it up to 11 for electric and even large ensembles. &amp;ldquo;Contact us&amp;rdquo;:/contact/ if you have any questions or inquiries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mahler Box</title>
+      <link>http://localhost:1313/project/mahler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/mahler/</guid>
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/assets/images/Mahler-thumbnail.png! While &amp;ldquo;Tonality&amp;rdquo;:/portfolio/tonality was my first project and collaboration (with &amp;ldquo;Kai Cataldo&amp;rdquo;:&lt;a href=&#34;http://kai.codes&#34;&gt;http://kai.codes&lt;/a&gt;), Mahler Box is my first solo project. At least first project I actually cared about. As a musician, I was always told &amp;ldquo;play with drones for your ear,&amp;rdquo; &amp;ldquo;play with a metronome to suck less at rhythm.&amp;rdquo; By and large, these people were right.&lt;/p&gt;
+
+&lt;p&gt;So, I decided to write these tools for myself. Mahler Box is a drone generator and metronome timer based off of the &amp;ldquo;Web Audio API&amp;rdquo;:&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&lt;/a&gt;. The drones and metronome clicks are simple oscillators, while the timing is done based off of a helper scheduler. Think: &amp;ldquo;Ok, I need another click in precisely 25ms, can you pencil that in? Thanks.&amp;rdquo; It then loops that scheduler until you press &amp;ldquo;Stop&amp;rdquo;. Cool stuff that I didn&amp;rsquo;t necessarily invent, but took the concept, fleshed it out, and put a nice little bow on it.&lt;/p&gt;
+
+&lt;p&gt;Let me know if you have any concerns, questions, or comments with the handy contact form up on the top right. Until then, enjoy Mahler Box.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tonality</title>
+      <link>http://localhost:1313/project/tonality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/tonality/</guid>
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img)/assets/images/Tonality-thumbnail.png! Ah, Tonality. My first. It&amp;rsquo;s not exactly how I&amp;rsquo;d like to leave it, it could be improved, but what can&amp;rsquo;t? Maybe Neil DeGrasse Tyson, he&amp;rsquo;s perfect. Anyways, Tonality is a collaboration with fellow programmer &amp;ldquo;Kai Cataldo&amp;rdquo;:&lt;a href=&#34;http://kai.codes&#34;&gt;http://kai.codes&lt;/a&gt; who has been a great colleague, sounding board, and genuinely great guy. Go check out his stuff, he&amp;rsquo;s got great ideas (Tonality being one) and hopefully you can see the Dr. Jekyll to my Mr. Hyde.&lt;/p&gt;
+
+&lt;p&gt;Tonality is a fun loop generator, albeit not extremely powerful, but extremely entertaining. There have been raves powered by Tonality*, or so I hear from the Twittersphere. HTML, CSS, JS, baby, it&amp;rsquo;s simple, fun and addictive. Oh yeah, fun trivia: the default sound pack (alternate sound packs in a future update) is a pentatonic scale meaning there are no dissonant notes. Everything sounds good! Love physics.&lt;/p&gt;
+
+&lt;p&gt;Leave a comment, question, or genuine praise up at the top and we&amp;rsquo;ll give you a holla back!&lt;/p&gt;
+
+&lt;p&gt;*Some accusations may be true, partially true, or not partially true. You are the judge.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/2015-04-06-Brians-Shorts-01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/2015-03-31-Hellow-Orld/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/2015-04-03-Trials-of-a-Trombonist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project/duckchase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project/mahler/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project/tonality/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/duckchase/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/contact/</loc>
+  </url>
+  
+</urlset>
