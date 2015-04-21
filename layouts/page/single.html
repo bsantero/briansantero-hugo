@@ -1,5 +1,7 @@
-{{ partial "header.html" }}
+{{ partial "header.html" . }}
 
-{{ .Content }}
+<div class="pure-u-1 page-content">
+  {{ .Content }}
+</div>
 
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}

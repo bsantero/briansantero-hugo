@@ -1,7 +1,7 @@
 ---
 title: Tonality
 link: http://owlduck.github.io/Tonality/
-image: /assets/images/Tonality-thumbnail.png
+image: /images/Tonality-thumbnail.png
 ---
 
 !(pure-img float-left pad-right portfolio-img)/assets/images/Tonality-thumbnail.png! Ah, Tonality. My first. It's not exactly how I'd like to leave it, it could be improved, but what can't? Maybe Neil DeGrasse Tyson, he's perfect. Anyways, Tonality is a collaboration with fellow programmer "Kai Cataldo":http://kai.codes who has been a great colleague, sounding board, and genuinely great guy. Go check out his stuff, he's got great ideas (Tonality being one) and hopefully you can see the Dr. Jekyll to my Mr. Hyde.

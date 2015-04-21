@@ -1,9 +1,9 @@
 ---
 title: Duckchase
 link: /duckchase/
-image: /assets/images/Duckchase_Logo.gif
+image: /images/Duckchase_Logo.gif
 ---
 
-!(pure-img float-left pad-right portfolio-img-right)/assets/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.
+!(pure-img float-left pad-right portfolio-img-right)/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.
 
 Here at Duckchase, we specialize in acoustic recording of small to medium ensembles, but are willing to turn it up to 11 for electric and even large ensembles. "Contact us":/contact/ if you have any questions or inquiries.

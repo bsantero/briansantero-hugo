@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/project/duckchase/</guid>
-      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/assets/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.&lt;/p&gt;
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.&lt;/p&gt;
 
 &lt;p&gt;Here at Duckchase, we specialize in acoustic recording of small to medium ensembles, but are willing to turn it up to 11 for electric and even large ensembles. &amp;ldquo;Contact us&amp;rdquo;:/contact/ if you have any questions or inquiries.&lt;/p&gt;
 </description>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/project/mahler/</guid>
-      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/assets/images/Mahler-thumbnail.png! While &amp;ldquo;Tonality&amp;rdquo;:/portfolio/tonality was my first project and collaboration (with &amp;ldquo;Kai Cataldo&amp;rdquo;:&lt;a href=&#34;http://kai.codes&#34;&gt;http://kai.codes&lt;/a&gt;), Mahler Box is my first solo project. At least first project I actually cared about. As a musician, I was always told &amp;ldquo;play with drones for your ear,&amp;rdquo; &amp;ldquo;play with a metronome to suck less at rhythm.&amp;rdquo; By and large, these people were right.&lt;/p&gt;
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right)/images/Mahler-thumbnail.png! While &amp;ldquo;Tonality&amp;rdquo;:/portfolio/tonality was my first project and collaboration (with &amp;ldquo;Kai Cataldo&amp;rdquo;:&lt;a href=&#34;http://kai.codes&#34;&gt;http://kai.codes&lt;/a&gt;), Mahler Box is my first solo project. At least first project I actually cared about. As a musician, I was always told &amp;ldquo;play with drones for your ear,&amp;rdquo; &amp;ldquo;play with a metronome to suck less at rhythm.&amp;rdquo; By and large, these people were right.&lt;/p&gt;
 
 &lt;p&gt;So, I decided to write these tools for myself. Mahler Box is a drone generator and metronome timer based off of the &amp;ldquo;Web Audio API&amp;rdquo;:&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&lt;/a&gt;. The drones and metronome clicks are simple oscillators, while the timing is done based off of a helper scheduler. Think: &amp;ldquo;Ok, I need another click in precisely 25ms, can you pencil that in? Thanks.&amp;rdquo; It then loops that scheduler until you press &amp;ldquo;Stop&amp;rdquo;. Cool stuff that I didn&amp;rsquo;t necessarily invent, but took the concept, fleshed it out, and put a nice little bow on it.&lt;/p&gt;
 

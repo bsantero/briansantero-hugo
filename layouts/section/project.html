@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+{{ range .Data.Pages }}
+  {{ .Render "figure" }}
+{{ end }}
+
+<div class="pure-g mobile-footer-duckchase">
+	<div class="pure-u-1-2 nav-back">
+		<a href="/page/duckchase/" class="full-div-link"><span><i class="fa fa-arrow-left"></i></span></a>
+    <p>Duckchase is the entity behind these magnificent works of digital art. Take one home today!</p>
+	</div>
+	<div class="pure-u-1-2 nav-forward">
+		<a href="/page/contact" class="full-div-link"><span><i class="fa fa-arrow-right"></i></span></a>
+    <p>Keep those messages rolling in! Send Brian an e-postcard / missive / letter / stampthing.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'bsantero';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+</body>
+</html>

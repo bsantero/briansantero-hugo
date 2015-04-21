@@ -1,9 +1,10 @@
-{{ partial "header.html" }}
+{{ partial "header.html" . }}
 
 <h1>{{ .Title }}</h1>
+<div class="pure-u-1">
+  {{ range .Data.Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
+</div>
 
-{{ range .Data.Pages }}
-  {{ .Render "summary" }}
-{{ end }}
-
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}

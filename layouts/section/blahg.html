@@ -1,9 +1,32 @@
-{{ partial "header.html" }}
+{{ partial "header.html" . }}
 
-<h1>Brian's Blahg</h1>
+  {{ range .Data.Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
 
-{{ range .Data.Pages }}
-  {{ .Render "summary" }}
-{{ end }}
+<div class="pure-g mobile-footer-duckchase">
+	<div class="pure-u-1-2 nav-back">
+		<a href="/" class="full-div-link"><span><i class="fa fa-arrow-left"></i></span></a>
+    <p>Read about Brian in his epically thrilling bios!</p>
+	</div>
+	<div class="pure-u-1-2 nav-forward">
+		<a href="/page/duckchase/" class="full-div-link"><span><i class="fa fa-arrow-right"></i></span></a>
+    <p>Or maybe find out about the Mr. Hyde to his Dr. Jekyll at Duckchase!</p>
+	</div>
+</div>
 
-{{ partial "footer.html" }}
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'bsantero';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+</body>
+</html>

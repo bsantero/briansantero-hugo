@@ -1,7 +1,10 @@
-{{ partial "header.html" }}
+{{ partial "header.html" . }}
 
 <h1>{{ .Title }}</h1>
+<div class="pure-u-1 page-content">
+  {{ .Content }}
+  {{ .Prev }}
+  {{ .Next }}
+</div>
 
-{{ .Content }}
-
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}

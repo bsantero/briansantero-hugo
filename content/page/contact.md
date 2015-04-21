@@ -1,10 +1,10 @@
 ---
 title: Contact
 weight: 10
-back-text: Brian's Blahg really is an epic poem broken up into short digestible chunks. Like Battlestar Galactica episodes.
-back-link: /blahg/
-forward-text: Since you're here, you might as well check out his brand new, shiny, candle apple red Portfolio!
-forward-link: /portfolio/
+backText: "Brian's Blahg really is an epic poem broken up into short digestible chunks. Like Battlestar Galactica episodes."
+backLink: "/blahg/"
+forwardText: "Since you're here, you might as well check out his brand new, shiny, candle apple red Portfolio!"
+forwardLink: "/project/"
 ---
 
 <form class="contact" action="https://getsimpleform.com/messages?form_api_token=8fe3f0bce4d48b58cb7a19c033eefdfc" method="post">
