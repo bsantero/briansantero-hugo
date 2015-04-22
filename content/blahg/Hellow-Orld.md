@@ -2,6 +2,7 @@
 title: "Hellow Orld"
 categories: ["tech"]
 published: true
+date: 2015-03-31
 ---
 
 Yet another Hello World for my [blahg](/blahg/). I've lost track of how many blahgs I've started, but I swear, this one is the best!

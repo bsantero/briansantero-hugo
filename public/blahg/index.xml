@@ -6,14 +6,15 @@
     <description>Recent content in Blahgs on Brian Santero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blahg/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Brian&#39;s Shorts 01</title>
-      <link>http://localhost:1313/blahg/2015-04-06-Brians-Shorts-01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/blahg/Brians-Shorts-01/</link>
+      <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blahg/2015-04-06-Brians-Shorts-01/</guid>
+      <guid>http://localhost:1313/blahg/Brians-Shorts-01/</guid>
       <description>&lt;p&gt;One of my favorite quotes: &amp;ldquo;Always practice as if your teacher is right outside the door.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Luckily, I know he&amp;rsquo;s not. Therefore, I don&amp;rsquo;t.&lt;/p&gt;
@@ -21,28 +22,28 @@
     </item>
     
     <item>
-      <title>Hellow Orld</title>
-      <link>http://localhost:1313/blahg/2015-03-31-Hellow-Orld/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Trials of a Trombonist</title>
+      <link>http://localhost:1313/blahg/Trials-of-a-Trombonist/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blahg/2015-03-31-Hellow-Orld/</guid>
+      <guid>http://localhost:1313/blahg/Trials-of-a-Trombonist/</guid>
+      <description>&lt;p&gt;Every day is about making yourself better, right? I should be Brian v1.9.9.2.3 and tomorrow I&amp;rsquo;ll be .4, then .5&amp;hellip; I&amp;rsquo;ve considered this to be a falsism.&lt;/p&gt;
+
+&lt;p&gt;You hear it in many ways: &amp;ldquo;it&amp;rsquo;s about the journey&amp;rdquo;, &amp;ldquo;[deity] put me here for some reason&amp;rdquo;, &amp;ldquo;Bubba smash BUG!&amp;rdquo; No matter how you say it, we feel like we need purpose. I&amp;rsquo;m a classically trained orchestral musician in my life, but that hasn&amp;rsquo;t been my PURPOSE per se. Each day, I wake up and precisely &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; have a burning desire in my heart. Each day is another chance for me to figure out what I want in my life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hellow Orld</title>
+      <link>http://localhost:1313/blahg/Hellow-Orld/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blahg/Hellow-Orld/</guid>
       <description>&lt;p&gt;Yet another Hello World for my &lt;a href=&#34;http://localhost:1313/blahg/&#34;&gt;blahg&lt;/a&gt;. I&amp;rsquo;ve lost track of how many blahgs I&amp;rsquo;ve started, but I swear, this one is the best!&lt;/p&gt;
 
 &lt;p&gt;No more Joomla, no more Wordpress. It&amp;rsquo;s a very cool technology called &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. This tech allows me (and you!) to build each site, and launch it anywhere. I don&amp;rsquo;t need a super powerful server, and there&amp;rsquo;s no database for anyone to hack into. It&amp;rsquo;s just simple html, css, and js.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The magic is behind the &lt;a href=&#34;http://localhost:1313/behind/the/curtain/index.html&#34; class=&#34;hidden-link&#34;&gt;curtain&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trials of a Trombonist</title>
-      <link>http://localhost:1313/blahg/2015-04-03-Trials-of-a-Trombonist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blahg/2015-04-03-Trials-of-a-Trombonist/</guid>
-      <description>&lt;p&gt;Every day is about making yourself better, right? I should be Brian v1.9.9.2.3 and tomorrow I&amp;rsquo;ll be .4, then .5&amp;hellip; I&amp;rsquo;ve considered this to be a falsism.&lt;/p&gt;
-
-&lt;p&gt;You hear it in many ways: &amp;ldquo;it&amp;rsquo;s about the journey&amp;rdquo;, &amp;ldquo;[deity] put me here for some reason&amp;rdquo;, &amp;ldquo;Bubba smash BUG!&amp;rdquo; No matter how you say it, we feel like we need purpose. I&amp;rsquo;m a classically trained orchestral musician in my life, but that hasn&amp;rsquo;t been my PURPOSE per se. Each day, I wake up and precisely &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; have a burning desire in my heart. Each day is another chance for me to figure out what I want in my life.&lt;/p&gt;
 </description>
     </item>
     

@@ -3,7 +3,23 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2015-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/Brians-Shorts-01/</loc>
+    <lastmod>2015-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/Trials-of-a-Trombonist/</loc>
+    <lastmod>2015-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blahg/Hellow-Orld/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -11,27 +27,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/blahg/2015-03-31-Hellow-Orld/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blahg/2015-04-06-Brians-Shorts-01/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blahg/2015-04-03-Trials-of-a-Trombonist/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/project/duckchase/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/tonality/</loc>
+    <loc>http://localhost:1313/project/mahler/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/mahler/</loc>
+    <loc>http://localhost:1313/project/tonality/</loc>
   </url>
   
   <url>
