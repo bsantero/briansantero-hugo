@@ -27,15 +27,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/duckchase/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/project/mahler/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/project/tonality/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project/duckchase/</loc>
   </url>
   
   <url>

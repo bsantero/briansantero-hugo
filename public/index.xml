@@ -107,18 +107,6 @@
     </item>
     
     <item>
-      <title>Duckchase</title>
-      <link>http://localhost:1313/project/duckchase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/project/duckchase/</guid>
-      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right )/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.&lt;/p&gt;
-
-&lt;p&gt;Here at Duckchase, we specialize in acoustic recording of small to medium ensembles, but are willing to turn it up to 11 for electric and even large ensembles. &amp;ldquo;Contact us&amp;rdquo;:/contact/ if you have any questions or inquiries.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Mahler Box</title>
       <link>http://localhost:1313/project/mahler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,6 +133,18 @@
 &lt;p&gt;Leave a comment, question, or genuine praise up at the top and we&amp;rsquo;ll give you a holla back!&lt;/p&gt;
 
 &lt;p&gt;*Some accusations may be true, partially true, or not partially true. You are the judge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Duckchase</title>
+      <link>http://localhost:1313/project/duckchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/duckchase/</guid>
+      <description>&lt;p&gt;!(pure-img float-left pad-right portfolio-img-right )/images/Duckchase_Logo.gif! Duckchase is the recording arm of Brian Santero Enterprises.&lt;/p&gt;
+
+&lt;p&gt;Here at Duckchase, we specialize in acoustic recording of small to medium ensembles, but are willing to turn it up to 11 for electric and even large ensembles. &amp;ldquo;Contact us&amp;rdquo;:/contact/ if you have any questions or inquiries.&lt;/p&gt;
 </description>
     </item>
     
