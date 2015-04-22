@@ -1,4 +1,4 @@
-baseurl = "http://www.briansantero.com/test"
+baseurl = "http://www.briansantero.com/"
 languageCode = "en-us"
 title = "Brian Santero"
 buildDrafts = true
