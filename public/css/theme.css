@@ -182,25 +182,6 @@ a:focus {
 	color: black;
 }
 
-.blog-item-link a {
-	text-decoration: none;
-}
-
-.animate-child i.fa {
-	margin-left: .3rem;
-	font-size: .75em;
-}
-
-.animate-child:hover i.fa {
-	-webkit-animation: wrench 1.2s ease infinite;
-  animation: wrench 1.2s ease infinite;
-}
-
-.post-date {
-	color: #C21A17;
-	margin-bottom: .5rem !important;
-}
-
 p:first-child {
 	/*margin-top: 0;*/
 }
@@ -257,8 +238,46 @@ p:first-child {
 
 /* Blahg List */
 
+.animate-child i.fa {
+	margin-left: .3rem;
+	font-size: .75em;
+}
+
+.animate-child:hover i.fa {
+	-webkit-animation: wrench 1.2s ease infinite;
+  animation: wrench 1.2s ease infinite;
+}
+
+.post-date {
+	color: #C21A17;
+	margin-bottom: .5rem !important;
+}
+
+.blahg.post {
+	font-family: "Open Sans", sans-serif;
+}
+
 .post-summary {
+	font-family: "Open Sans", sans-serif !important;
 	padding: 1rem;
+}
+
+.post-summary header h2 {
+	margin-bottom: .5rem;
+}
+
+.post-summary header a {
+	text-decoration: none;
+}
+
+.post-summary .post-meta {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	color: #C21A17;
+}
+
+.post-summary footer {
+	margin-top: .5rem;
 }
 
 /* Portfolio Page Specific */
@@ -312,10 +331,19 @@ figure.portfolio-figure .header-font {
 	margin-bottom: .5rem;
 }
 
-.portfolio-item-page [class *="portfolio-img"] {
+[class *="portfolio-img"] {
 	width: 35%;
 	display: inline-block;
 }
+
+.portfolio-img-right {
+	float: right;
+}
+
+.portfolio-img-left {
+	float: left;
+}
+
 
 .portfolio p:first-child {
 	margin-bottom: 1rem;
