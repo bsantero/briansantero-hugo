@@ -2,3 +2,5 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Brian Santero"
 buildDrafts = true
+DisableRSS = true
+DisableSitemap = true
