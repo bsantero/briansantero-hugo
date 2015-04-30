@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+
+{{ range .Data.Pages }}
+	{{ .Render "content" }}
+{{ end }}
+
+<div class="pure-g desktop-footer-duckchase">
+	<div class="pure-u-1-2 nav-back">
+		<a href="/blahg/" class="full-div-link"><span><i class="fa fa-arrow-left"></i></span></a>
+    <p>Brian's Blahg really is an epic poem broken up into short digestible chunks. Like Battlestar Galactica episodes.</p>
+	</div>
+	<div class="pure-u-1-2 nav-forward">
+		<a href="/project/" class="full-div-link"><span><i class="fa fa-arrow-right"></i></span></a>
+    <p>Since you're here, you might as well check out his brand new, shiny, candle apple red Portfolio!</p>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'bsantero';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+</body>
+</html>
