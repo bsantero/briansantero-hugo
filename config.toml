@@ -1,9 +1,10 @@
-baseurl = "http://www.briansantero.com"
+baseurl = "http://www.briansantero.com/"
 languageCode = "en-us"
 title = "Brian Santero"
 buildDrafts = true
 DisableRSS = true
 DisableSitemap = true
+canonifyurls = false
 [[menu.main]]
   name = "About"
   weight = -110
@@ -18,9 +19,14 @@ DisableSitemap = true
   name = "Duckchase"
   weight = -90
   identifier = "Duckchase"
-  url ="/page/duckchase"
+  url ="/duckchase/"
 [[menu.main]]
   name = "Projects"
   weight = -80
   identifier = "Projects"
   url ="/project/"
+[[menu.main]]
+  name = "Contact"
+  weight = -60
+  identifier = "Contact"
+  url ="/contact/"

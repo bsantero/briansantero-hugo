@@ -126,6 +126,10 @@ body {
 	text-align: center;
 }
 
+nav.pure-menu {
+	margin-bottom: .67rem;
+}
+
 .pure-menu-item {
 	font-size: 1.5rem;
 }
@@ -135,6 +139,7 @@ body {
 }
 
 .contact-toggle {
+	width: 1rem;
 	padding: 1rem 1.25rem;
 	margin: .2rem;
 	border: 3px solid;
@@ -165,12 +170,21 @@ a.hidden-link:focus {
 	color: inherit;
 }
 
-a.active:link,
-a.active:visited,
-a.active:hover,
-a.active:active,
-a.active:focus {
+nav li.active,
+nav li.active:link,
+nav li.active:visited,
+nav li.active:hover,
+nav li.active:active,
+nav li.active:focus {
 	background-color: #C21A17 !important;
+}
+
+nav li.active a:hover {
+	background-color: #C21A17 !important;
+}
+
+nav li.active a:hover,
+nav li.active a {
 	color: #FFF !important;
 }
 
@@ -354,7 +368,7 @@ figure.portfolio-figure .header-font {
 
 .page-content form.contact {
 	max-width: 1500px;
-	width: 75%;
+	width: 100%;
 	margin: auto;
 }
 
@@ -375,13 +389,12 @@ form.contact .form-label {
 
 form.contact .form-field input,
 form.contact .form-field textarea {
-	padding-left: 1rem;
 	width: 100%;
 	font-size: 1.5rem;
 }
 
-form.contact .submit {
-	width: 100%;
+form.contact .submit .button-container {
+	text-align: center;
 }
 
 form.contact .submit input {
@@ -396,7 +409,7 @@ form.contact .submit input {
 
 /* Page footer helpers */
 
-div[class *="mobile-footer"] {
+div[class *="desktop-footer"] {
 	position: fixed;
 	left: 0;
 	bottom: 0;
@@ -467,10 +480,18 @@ div[class *="mobile-footer"] {
 }
 
 @media screen and (max-width: 568px) {
+	body {
+		margin-bottom: 0;
+	}
+
+	.site-title {
+		margin: .32rem auto;
+	}
 
 	.bio-toggle {
 		border-top: 1px solid;
 		border-bottom: 1px solid;
+		font-size: 1.2rem;
 	}
 
 	.bio-toggle.music {
@@ -481,7 +502,11 @@ div[class *="mobile-footer"] {
 
 	.bio-toggle.tech {
 		border-color: green;
-		margin-top: .5rem;
+		margin-top: 0rem;
+	}
+
+	.pure-menu-list {
+		width: 80%;
 	}
 
 	.pure-menu-list li.pure-menu-item {
@@ -518,5 +543,9 @@ div[class *="mobile-footer"] {
 	form.contact .form-label {
 		width: 15%;
 		font-size: 1.3rem;
+	}
+
+	.desktop-footer-duckchase {
+		display: none;
 	}
 }

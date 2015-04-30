@@ -17,21 +17,16 @@
 <body>
 
 	<div class="pure-g body-container">
-		<span class="fixed-top-right">
-			<a href="/page/contact/">
-				<i class="fa fa-envelope contact-toggle clickable"></i>
-			</a>
-		</span>
 		<div class="pure-u-1">
 			<h1 class="site-title">{{ .Site.Title }}<h1>
 		</div>
+
 		<nav class="pure-u-1 pure-menu pure-menu-horizontal text-center">
 			<ul class="pure-menu-list">
-				{{ $currentNode := . }}
-				{{  range .Site.Menus.main }}
-		    <li class="pure-menu-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}">
-					<a class="pure-menu-link" href="{{ .Url }}">{{ .Name }}</a>
-				</li>
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.main }}
+				<li class="pure-menu-item{{if $currentNode.IsMenuCurrent "main" . }} active{{end}}"><a href="{{.Url}}" class="pure-menu-link"> {{ .Name }} </a></li>
 				{{ end }}
+
 			</ul>
 		</nav>
