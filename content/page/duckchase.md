@@ -13,6 +13,6 @@ At DuckChase we'll do nearly everything for you as long as it involves bits and 
 
 # So, how do I Duckchase?</h1>
 
-If you'd like to figure out your options, drop us a [little line](/page/contact/) and we'll make it happen!
+If you'd like to figure out your options, drop us a [little line](/contact/) and we'll make it happen!
 
 [^1]: Btw, we're also big fans of the <a href="https://youtu.be/8Gv0H-vPoDc?t=96">oxford comma</a>.
