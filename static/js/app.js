@@ -1,11 +1,7 @@
 $(document).ready(function(){
 
-	$("window").load(function() {
-		$(".loaded").removeClass("loaded");
-	});
 
 	$("#music-toggle").addClass("active");
-	$("#tech-bio").addClass("hidden");
 
 
 	/* About Page */
@@ -28,4 +24,8 @@ $(document).ready(function(){
 		}
 	});
 
+});
+
+$(window).load(function() {
+	$("body").removeClass("preload");
 });

@@ -13,18 +13,18 @@
 </div><!-- header.html: body-container -->
 
 <div class="pure-g desktop-footer-duckchase">
-<div class="pure-u-1-2 nav-back">
-  {{ if .Next }}
-  <a href="{{ .Next.Permalink }}" class="full-div-link"><span><i class="fa fa-arrow-left"></i></span></a>
-  <p>{{ .Next.Description }}</p>
-  {{ end }}
-</div>
-<div class="pure-u-1-2 nav-forward">
-  {{ if .Prev }}
-  <a href="{{ .Prev.Permalink }}" class="full-div-link"><span><i class="fa fa-arrow-right"></i></span></a>
-  <p>{{ .Prev.Description }}</p>
-  {{ end }}
-</div>
+  <div class="pure-u-1-2 nav-back">
+    {{ if .Next }}
+    <a href="{{ .Next.Permalink }}" class="full-div-link"><span><i class="fa fa-arrow-left"></i></span></a>
+    <p>{{ .Next.Description }}</p>
+    {{ end }}
+  </div>
+  <div class="pure-u-1-2 nav-forward">
+    {{ if .Prev }}
+    <a href="{{ .Prev.Permalink }}" class="full-div-link"><span><i class="fa fa-arrow-right"></i></span></a>
+    <p>{{ .Prev.Description }}</p>
+    {{ end }}
+  </div>
 </div>
 
 <script type="text/javascript">

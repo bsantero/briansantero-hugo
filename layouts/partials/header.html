@@ -14,7 +14,7 @@
   <script src="/js/app.js"></script>
 
 	</head>
-<body>
+<body class="preload">
 
 	<div class="pure-g body-container">
 		<div class="pure-u-1">
@@ -25,7 +25,7 @@
 			<ul class="pure-menu-list">
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
-				<li class="pure-menu-item{{if $currentNode.IsMenuCurrent "main" . }} active{{end}}"><a href="{{.Url}}" class="pure-menu-link"> {{ .Name }} </a></li>
+				<li class="pure-menu-item{{ if $currentNode.IsMenuCurrent "main" . }} active{{end}}"><a href="{{.Url}}" class="pure-menu-link"> {{ .Name }} </a></li>
 				{{ end }}
 
 			</ul>
